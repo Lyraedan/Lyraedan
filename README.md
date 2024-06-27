@@ -93,8 +93,8 @@
     </tbody>
   </table>
 
-  <h2>Some of my other projects!</h2>
-  <p>Coming soon</p>
+  <h2>Shipped titles.</h2>
+  <p>Available on request.</p>
 
   <h2>My GitHub stats</h2>
   <br/>
