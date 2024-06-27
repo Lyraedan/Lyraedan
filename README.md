@@ -19,7 +19,7 @@
   <img src="https://komarev.com/ghpvc/?username=lyraedan&style=flat-square&color=blue" alt=""/>
 
   <h1>
-  Hi, I'm Luke, I'm a Game developer Developer! I make games!
+  Hi, I'm Luke, I'm a Game Developer! I make games!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <p>
