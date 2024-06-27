@@ -75,7 +75,7 @@
   Some of my mods
 </h2>
 <table width="100%" border="0">
-    <tbody align="center">
+  <tbody align="center">
         <tr><td border="0" width=512px height=256px>
           <img src="https://steamuserimages-a.akamaihd.net/ugc/2151090642828470757/BA90C517264B2F310D3105FD5CFAE2530C1062F0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width=512 height=256/>
           <h1>
@@ -87,8 +87,7 @@
           <p>View code: <a href="https://github.com/Lyraedan/STS-OrbLib">here</a></p>
           <p>Read documentation: <a href="https://github.com/Lyraedan/STS-OrbLib/wiki/Guide#using-the-new-framework">here</a></p>
         </td>
-    </tr>
-      <tr><td border="0" width=512px height=256px>
+        <td border="0" width=512px height=512px>
           <img src="https://steamuserimages-a.akamaihd.net/ugc/2074515158516212513/D0BE1049E165014C0E4B32AD3E165680DD14FE43/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width=512 height=256/>
           <h1>
             Luke the Unassuming Programmer
