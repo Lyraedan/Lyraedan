@@ -68,6 +68,7 @@
         </td>
       </tr>
     </tbody>
+    <p>More games available on request</p>
   </table>
 
   <h2>Some of my mods</h2>
