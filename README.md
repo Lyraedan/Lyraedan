@@ -10,7 +10,7 @@
 
 ### 🎮 My Games
 
-<details open>
+<details>
   <summary><strong>🎮 Cellborn</strong></summary>
   <br />
   <img src="https://i.imgur.com/JbINBVn.png" width="100%" alt="Cellborn" />
@@ -54,7 +54,7 @@
 
 ### 🛠️ My Mods
 
-<details open>
+<details>
   <summary><strong>💥 HorizonMW</strong></summary>
   <br />
   <img src="https://raw.githubusercontent.com/HMW-mod/hmw-client/refs/heads/master/assets/github/banner.png" width="100%" alt="HorizonMW" />
@@ -97,11 +97,7 @@
 
 ### 📦 Shipped Titles
 
-<details>
-  <summary><strong>📦 Shipped Projects</strong></summary>
-  <br />
-  <p>Available on request.</p>
-</details>
+<p>Available on request.</p>
 
 ---
 
