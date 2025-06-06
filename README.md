@@ -76,6 +76,15 @@
     <tbody align="center">
       <tr>
         <td border="0" width="512px" height="256px">
+          <img src="https://raw.githubusercontent.com/HMW-mod/hmw-client/refs/heads/master/assets/github/banner.png" width="512" height="256"/>
+          <h1>HorizonMW</h1>
+          <p align="left">HorizonMW is a revival of the popular Mw2 multiplayer remastered mod, H2M-Mod. Download can be found on our website below.</p>
+          <p align="left">Download: <a href="https://horizonmw.org">here</a></p>
+          <p align="left">View code: <a href="https://github.com/HMW-mod/hmw-client">here</a></p>
+          <p align="left">Join the Discord: <a href="https://discord.com/invite/horizonmw">here</a></p>
+          <p align="left">Follow updates: <a href="https://x.com/HorizonMWX">here</a></p>
+        </td>
+        <td border="0" width="512px" height="256px">
           <img src="https://steamuserimages-a.akamaihd.net/ugc/2151090642828470757/BA90C517264B2F310D3105FD5CFAE2530C1062F0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="512" height="256"/>
           <h1>OrbLib</h1>
           <p align="left">A mod for Slay the Spire written in Java. OrbLib is a library for extending Orb functionality in Slay the Spire.</p>
