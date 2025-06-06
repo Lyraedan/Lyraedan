@@ -50,6 +50,8 @@
   <p><a href="https://globalgamejam.org/2020/games/parachutes-sold-separately-0">Game Jam Page</a></p>
 </details>
 
+<p>More available on request.</p>
+
 ---
 
 ### 🛠️ My Mods
@@ -92,6 +94,8 @@
     🔧 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2866021547">Steam</a> | 💻 <a href="https://github.com/Lyraedan/DST-Luke-The-Unassuming-Programmer">Code</a>
   </p>
 </details>
+
+<p>More available on request.</p>
 
 ---
 
