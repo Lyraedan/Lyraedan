@@ -59,7 +59,10 @@
   <br />
   <img src="https://raw.githubusercontent.com/HMW-mod/hmw-client/refs/heads/master/assets/github/banner.png" width="100%" alt="HorizonMW" />
   <p>
-    Revival of H2-Mod for MW2 Remastered. Previously "Captain Barbossa", now "ItsLuke".
+    Open source revival of the shutdown H2M mod for Modern Warfare Remastered (2017)
+  </p>
+  <p>
+    I was previously known "Captain Barbossa", now "ItsLuke".
   </p>
   <p>
     🌐 <a href="https://horizonmw.org">Website</a> | 💻 <a href="https://github.com/HMW-mod/hmw-client">Source</a> | 💬 <a href="https://discord.com/invite/horizonmw">Discord</a> | 🐦 <a href="https://x.com/HorizonMWX">Twitter</a>
