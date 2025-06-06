@@ -57,7 +57,7 @@
 ### 🛠️ My Mods
 
 <details>
-  <summary><strong>💥 HorizonMW</strong></summary>
+  <summary><strong>💥 HorizonMW (MWR Mod)</strong></summary>
   <br />
   <img src="https://raw.githubusercontent.com/HMW-mod/hmw-client/refs/heads/master/assets/github/banner.png" width="100%" alt="HorizonMW" />
   <p>
@@ -72,7 +72,7 @@
 </details>
 
 <details>
-  <summary><strong>🔮 OrbLib</strong></summary>
+  <summary><strong>🔮 OrbLib (StS Mod)</strong></summary>
   <br />
   <img src="https://steamuserimages-a.akamaihd.net/ugc/2151090642828470757/BA90C517264B2F310D3105FD5CFAE2530C1062F0/" width="100%" alt="OrbLib" />
   <p>
