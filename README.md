@@ -79,6 +79,7 @@
           <img src="https://raw.githubusercontent.com/HMW-mod/hmw-client/refs/heads/master/assets/github/banner.png" width="512" height="256"/>
           <h1>HorizonMW</h1>
           <p align="left">HorizonMW is a revival of the popular Mw2 multiplayer remastered mod, H2M-Mod. Download can be found on our website below.</p>
+          <p>I was known on the mod originally as "Captain Barbossa" now I am known as "ItsLuke"</p>
           <p align="left">Download: <a href="https://horizonmw.org">here</a></p>
           <p align="left">View code: <a href="https://github.com/HMW-mod/hmw-client">here</a></p>
           <p align="left">Join the Discord: <a href="https://discord.com/invite/horizonmw">here</a></p>
