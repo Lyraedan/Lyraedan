@@ -59,7 +59,7 @@
 <details>
   <summary><strong>💥 HorizonMW (MWR Mod)</strong></summary>
   <br />
-  <img src="https://raw.githubusercontent.com/HMW-mod/hmw-client/refs/heads/master/assets/github/banner.png" width="100%" alt="HorizonMW" />
+  <img src="https://horizonmw.org/images/gallery3.png" width="100%" alt="HorizonMW" />
   <p>
     Open source revival of the shutdown H2M mod for Modern Warfare Remastered (2017)
   </p>
