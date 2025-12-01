@@ -102,13 +102,3 @@
 ### 📦 Shipped Titles
 
 <p>Available on request.</p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=lyraedan&theme=dark&background=000000" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyraedan&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-</div>
