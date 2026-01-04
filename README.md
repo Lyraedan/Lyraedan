@@ -57,6 +57,18 @@
 ### 🛠️ My Mods
 
 <details>
+  <summary><strong>🌐 Oxygen Not Included Together</strong></summary>
+  <br />
+  <img src="https://images.steamusercontent.com/ugc/14841426616549174503/B26ADB432BF7F646E3178E1A6739A7BF4ACB1385/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100%" alt="HorizonMW" />
+  <p>
+    Oxygen Not Included Together is a mod that brings multiplayer functionality to the game Oxygen Not Included, all players share controls over a single colony. See where dupes are, see what they are doing, collaborate together with friends or strangers and let your dupes thrive
+  </p>
+  <p>
+    🌐 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3630759126">Steam Workshop</a> | 💻 <a href="https://github.com/Lyraedan/Oxygen_Not_Included_Multiplayer">Source</a> | 💬 <a href="https://discord.gg/jpxveK6mmY">Discord</a>
+  </p>
+</details>
+
+<details>
   <summary><strong>💥 HorizonMW (MWR Mod)</strong></summary>
   <br />
   <img src="https://horizonmw.org/images/gallery3.png" width="100%" alt="HorizonMW" />
