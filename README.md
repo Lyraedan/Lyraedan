@@ -59,7 +59,7 @@
 <details>
   <summary><strong>🌐 Oxygen Not Included Together</strong></summary>
   <br />
-  <img src="https://images.steamusercontent.com/ugc/14841426616549174503/B26ADB432BF7F646E3178E1A6739A7BF4ACB1385/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100%" alt="HorizonMW" />
+  <img src="https://i.ibb.co/G136FH2/download.jpg" width="100%" alt="ONI Together" />
   <p>
     Oxygen Not Included Together is a mod that brings multiplayer functionality to the game Oxygen Not Included, all players share controls over a single colony. See where dupes are, see what they are doing, collaborate together with friends or strangers and let your dupes thrive
   </p>
