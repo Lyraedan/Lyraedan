@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lyraedan&style=flat-square&color=blue" alt="Profile views" />
-
+  <!--<img src="https://komarev.com/ghpvc/?username=lyraedan&style=flat-square&color=blue" alt="Profile views" />-->
   <h1>Hi, I'm Luke!</h1>
   <p><strong>Game Developer passionate about building worlds, mechanics, and cool stuff.</strong></p>
   <p>I work with Unity, Unreal Engine, Godot—even CryEngine!</p>
