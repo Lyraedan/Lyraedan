@@ -139,7 +139,10 @@
     A portable desktop downloader and updater for the ArtCraft Crafting Apps. It lists every app, shows what's installed and what has updates, and fetches the correct build for your OS and CPU—with SHA-256 verified downloads and an in-app changelog.
   </p>
   <p>
-    <a href="https://github.com/Lyraedan/ArtCraft-Suit-Updater">Source</a>
+    I now continue development of this on the official Craft launcher.
+  </p>
+  <p>
+    <a href="https://github.com/Lyraedan/ArtCraft-Suit-Updater">Source</a> | <a href="https://github.com/storytold/craft-launcher">Official Launcher</a>
   </p>
 </details>
 
