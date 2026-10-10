@@ -147,30 +147,45 @@
 
 ---
 
+---
+
 ### Projects I've Contributed To
 
 <details>
   <summary><strong>PhotoCraft</strong></summary>
   <br />
-  <img width="2400" height="1500" alt="image" src="https://github.com/user-attachments/assets/f695df54-6392-45c8-bcd3-6851f5a7bec8" />
+  <img width="2400" height="1500" alt="PhotoCraft" src="https://github.com/user-attachments/assets/f695df54-6392-45c8-bcd3-6851f5a7bec8" />
   <p>
     An open-source, native image editor built in Rust, featuring layers, masks, adjustment layers, brushes, and support for Photoshop PSD files.
   </p>
   <p>
     <a href="https://github.com/storytold/photocraft">Source</a>
   </p>
+    <details>
+    <summary><sub><strong>My Contributions</strong></sub></summary>
+    <ul>
+      <li><sub><a href="https://github.com/storytold/photocraft/pull/2635">Pull Request #2635</a></sub></li>
+      <li><sub><a href="https://github.com/storytold/photocraft/pull/2654">Pull Request #2654</a></sub></li>
+    </ul>
+  </details>
 </details>
 
 <details>
   <summary><strong>Craft Launcher</strong></summary>
   <br />
-  <img width="1180" height="900" alt="image" src="https://github.com/user-attachments/assets/8e02efa2-c2b7-400c-8411-3d4761e3cfa1" />
+  <img width="1180" height="900" alt="Craft Launcher" src="https://github.com/user-attachments/assets/8e02efa2-c2b7-400c-8411-3d4761e3cfa1" />
   <p>
     A native desktop launcher built in Rust for the Craft App Suite. Handles app discovery, installation, updates, and launching, with support for multiple operating systems and CPU architectures.
   </p>
   <p>
     <a href="https://github.com/storytold/craft-launcher">Source</a>
   </p>
+   <details>
+    <summary><sub><strong>My Contributions</strong></sub></summary>
+    <ul>
+      <li><sub><a href="https://github.com/storytold/craft-launcher/pull/2">Pull Request #2</a></sub></li>
+    </ul>
+  </details>
 </details>
 
 ---
