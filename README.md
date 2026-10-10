@@ -134,7 +134,7 @@
 <details>
   <summary><strong>ArtCraft Suite Updater</strong></summary>
   <br />
-  <img width="1919" height="1005" alt="image" src="https://github.com/user-attachments/assets/a790afe2-2f3c-4625-832e-0a3f55f32c64" />
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/528eb91e-19a7-44c8-83a4-0da36f3738ee" />
   <p>
     A portable desktop downloader and updater for the ArtCraft Crafting Apps. It lists every app, shows what's installed and what has updates, and fetches the correct build for your OS and CPU—with SHA-256 verified downloads and an in-app changelog.
   </p>
