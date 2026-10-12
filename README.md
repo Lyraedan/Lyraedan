@@ -147,8 +147,6 @@
 
 ---
 
----
-
 ### Projects I've Contributed To
 
 <details>
